@@ -47,3 +47,7 @@ This project demonstrates beginner-level Python programming, data handling, calc
 ## Disclaimer
 
 This is an educational project. It is not a financial advisory tool.
+
+## Dashboard Preview
+
+![Expense Tracker Dashboard](expense-tracker-dashboard.png)
